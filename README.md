@@ -1,7 +1,8 @@
 ## 🍔メニューを作成しました。
 
-下記のサイトのハンバーガーメニューをReactに変換する作業をしました  
+
 ---
+下記のサイトのハンバーガーメニューをReactに変換する作業をしました  
 https://tech-dig.jp/hamburger-global-nav/  
 
 
@@ -29,5 +30,5 @@ className={`black-bg ${toggle ? "" : "nav-open"}`}
   `
 クラスに代入するのに?のif文の使い方がわからなかった  
 
-###　参考になったサイト  
+### 参考になったサイト  
 https://teratail.com/questions/112538
