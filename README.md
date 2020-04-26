@@ -14,15 +14,15 @@ https://tech-dig.jp/hamburger-global-nav/
 #### 1
 
 `
-const [toggle, setToggle] = useState(false);  <br>
-const togglebtn = () => setToggle(!toggle);  <br>
-useEffect(() => {  <br>
-        if(toggle === true){  <br>
-            document.body.classList.remove("nav-open");  <br>
-        }else if(toggle === false){  <br>
-            document.body.classList.add("nav-open");  <br>
-        }  <br>
- },[toggle]);  <br>
+const [toggle, setToggle] = useState(false);  　
+const togglebtn = () => setToggle(!toggle);  　
+useEffect(() => {  　
+        if(toggle === true){ 　　
+            document.body.classList.remove("nav-open");  　
+        }else if(toggle === false){  　
+            document.body.classList.add("nav-open");  　
+        }  　
+ },[toggle]);  　
    `
 useState,useEffectの使い方にまだ慣れていないためとても時間がかかった  
 #### 2  
