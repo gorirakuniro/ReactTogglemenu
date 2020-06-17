@@ -1,4 +1,5 @@
 ## 🍔メニューを作成しました。
+公開
 https://gorirakuniro.github.io/ReactTogglemenu/
 
 ---
