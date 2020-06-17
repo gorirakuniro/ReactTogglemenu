@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTogglemenu/static/css/main.53fd9196.chunk.css",
+    "main.js": "/ReactTogglemenu/static/js/main.7518424d.chunk.js",
+    "main.js.map": "/ReactTogglemenu/static/js/main.7518424d.chunk.js.map",
+    "runtime-main.js": "/ReactTogglemenu/static/js/runtime-main.67fddd0c.js",
+    "runtime-main.js.map": "/ReactTogglemenu/static/js/runtime-main.67fddd0c.js.map",
+    "static/js/2.cb930fe1.chunk.js": "/ReactTogglemenu/static/js/2.cb930fe1.chunk.js",
+    "static/js/2.cb930fe1.chunk.js.map": "/ReactTogglemenu/static/js/2.cb930fe1.chunk.js.map",
+    "index.html": "/ReactTogglemenu/index.html",
+    "precache-manifest.5c0b34881cf9fdf55ddf586b63464e59.js": "/ReactTogglemenu/precache-manifest.5c0b34881cf9fdf55ddf586b63464e59.js",
+    "service-worker.js": "/ReactTogglemenu/service-worker.js",
+    "static/css/main.53fd9196.chunk.css.map": "/ReactTogglemenu/static/css/main.53fd9196.chunk.css.map",
+    "static/js/2.cb930fe1.chunk.js.LICENSE.txt": "/ReactTogglemenu/static/js/2.cb930fe1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67fddd0c.js",
+    "static/js/2.cb930fe1.chunk.js",
+    "static/css/main.53fd9196.chunk.css",
+    "static/js/main.7518424d.chunk.js"
+  ]
+}
